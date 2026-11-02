@@ -11,6 +11,7 @@ Scripts em Python e em sintaxe do IBM SPSS Statistics para analisar a nota da pr
 | `ENEM2023_02_Descritiva_Cor_Raca.sps` | Análise descritiva da nota por cor/raça: perfil de cada grupo, médias, medianas, percentis, distribuição por faixas de nota e quartis, quadro-síntese e comparações dentro de renda, tipo de escola, escolaridade dos pais e sexo. Produz 25 tabelas e 4 gráficos. |
 | `ENEM2023_03_Descritiva_Renda.sps` | Mesma estrutura descritiva, com a faixa de renda familiar como grupo de comparação. Produz 11 tabelas e 1 gráfico. |
 | `ENEM2023_04_Descritiva_Tipo_de_Escola.sps` | Mesma estrutura descritiva, com o tipo de escola (pública ou privada) como grupo de comparação. Produz 11 tabelas e 1 gráfico. |
+| `ENEM2023_Resultados.xlsx` | Junta em um único arquivo todos os resultados gerados que estão nos .sps. |
 
 ## Requisitos
 
